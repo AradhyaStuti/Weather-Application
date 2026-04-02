@@ -82,7 +82,7 @@ key=YOUR_API_KEY
 1. Download or clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/weather-application.git
+   git clone https://github.com/AradhyaStuti/Weather-Application.git
    ```
 
 2. Open the folder in VS Code
@@ -115,7 +115,7 @@ That’s it 🎉
 ## 👩‍💻 Author
 
 Your Name
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/AradhyaStuti]
 
 ---
 
