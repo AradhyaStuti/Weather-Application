@@ -1,25 +1,25 @@
 
-# 🌤️ Weather Application
+# Weather Application
 
 A clean and modern Weather Application built using **HTML, CSS, and JavaScript**.
 It fetches real-time weather data using the **WeatherAPI** and displays temperature, humidity, wind speed, and weather condition with a professional UI.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🌍 Search weather by city name
-* 🌡️ Real-time temperature (°C)
-* 💧 Humidity details
-* 🌬️ Wind speed information
-* ☁️ Weather condition with icon
-* ⌨️ Press **Enter key** to search
-* 🎨 Soft aesthetic pastel gradient UI
-* 📱 Responsive design
+*  Search weather by city name
+*  Real-time temperature (°C)
+*  Humidity details
+*  Wind speed information
+*  Weather condition with icon
+*  Press **Enter key** to search
+*  Soft aesthetic pastel gradient UI
+*  Responsive design
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3 (Modern UI with soft gradients)
@@ -28,7 +28,7 @@ It fetches real-time weather data using the **WeatherAPI** and displays temperat
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Weather-Application/
@@ -39,7 +39,7 @@ Weather-Application/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User enters a city name.
 2. App sends a request to WeatherAPI:
@@ -58,7 +58,7 @@ Weather-Application/
 
 ---
 
-## 🔑 API Used
+##  API Used
 
 This project uses:
 
@@ -77,7 +77,7 @@ key=YOUR_API_KEY
 
 ---
 
-## 🖥️ How to Run Locally
+##  How to Run Locally
 
 1. Download or clone the repository
 
@@ -89,7 +89,7 @@ key=YOUR_API_KEY
 
 3. Open `index.html` in your browser
 
-That’s it 🎉
+That’s it 
 
 ---
 
@@ -102,7 +102,7 @@ That’s it 🎉
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * 5-day forecast feature
 * Dark mode toggle
@@ -112,15 +112,10 @@ That’s it 🎉
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Your Name
 GitHub: [https://github.com/AradhyaStuti]
 
----
-
-## 📄 License
-
-This project is open-source and free to use.
 
 ---
